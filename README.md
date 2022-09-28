@@ -13,4 +13,4 @@ under the guidance of Professor [Md. Shad Akhtar](https://www.iiitd.ac.in/shad "
 
 > ## Author:
 - [Abhimanyu Gupta](https://github.com/0deadLock0 "GitHub Profile")
-- Meenal Gurbaxani
+- [Meenal Gurbaxani](https://github.com/meenal2602 "GitHub Profile")
